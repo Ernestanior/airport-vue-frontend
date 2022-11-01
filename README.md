@@ -26,13 +26,13 @@ Using Vue for front-end structure and Node.js for back-end, MongoDB for the data
 <img src="https://github.com/Ernestanior/airport-vue-frontend/blob/8dfb65dbc9d75c04361a69799f27fa0461cc719c/screenshot/EN/11.png" width="320px">
 
 ### Chinese Version
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/1.jpg" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/2.jpg" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/3.jpg" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/4.jpg" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/5.jpg" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/6.jpg" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/7.jpg" width="320px">
+<img src="https://github.com/Ernestanior/airport-vue-frontend/blob/5787a48beb6a37a91be15184fab2726123e4f2cc/screenshot/CN/1.jpg" width="320px">
+<img src="https://github.com/Ernestanior/airport-vue-frontend/blob/5787a48beb6a37a91be15184fab2726123e4f2cc/screenshot/CN/2.jpg" width="320px">
+<img src="https://github.com/Ernestanior/airport-vue-frontend/blob/5787a48beb6a37a91be15184fab2726123e4f2cc/screenshot/CN/3.jpg" width="320px">
+<img src="https://github.com/Ernestanior/airport-vue-frontend/blob/5787a48beb6a37a91be15184fab2726123e4f2cc/screenshot/CN/4.jpg" width="320px">
+<img src="https://github.com/Ernestanior/airport-vue-frontend/blob/5787a48beb6a37a91be15184fab2726123e4f2cc/screenshot/CN/5.jpg" width="320px">
+<img src="https://github.com/Ernestanior/airport-vue-frontend/blob/5787a48beb6a37a91be15184fab2726123e4f2cc/screenshot/CN/6.jpg" width="320px">
+<img src="https://github.com/Ernestanior/airport-vue-frontend/blob/5787a48beb6a37a91be15184fab2726123e4f2cc/screenshot/CN/7.jpg" width="320px">
 
 ### Compiles and hot-reloads for frontend
 ```
